@@ -4,7 +4,7 @@ The front-end web console that runs on ReactJS and Django.
 
 ## Installation
 
-Phython3 and Django are required for this build. 
+Phython3, Django and a Python Virtul Environment are required for this build. 
 
 ### If using a Mac
 
@@ -43,6 +43,7 @@ The console can be viewed on the following IP Address [here]
 [here]: http://127.0.0.1:8000/hello
 
 ### If using a Windows 
+
 
 First we clone the repository:
 
